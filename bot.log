@@ -1,0 +1,7 @@
+2025-11-21 20:51:23,100 | INFO | Market order response: ok
+2025-11-21 20:52:50,598 | INFO | Limit order response: ok
+2025-11-21 20:57:51,971 | INFO | TWAP chunk 1/5: ok
+2025-11-21 20:57:55,351 | INFO | TWAP chunk 2/5: ok
+2025-11-21 20:57:58,779 | INFO | TWAP chunk 3/5: ok
+2025-11-21 20:58:01,926 | INFO | TWAP chunk 4/5: ok
+2025-11-21 20:58:05,333 | INFO | TWAP chunk 5/5: ok
